@@ -1,0 +1,18 @@
+.contenedor {
+    width: 80vw;
+    height: 80vh;
+    border: 1rem solid greenyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.caja {
+    height: 10rem;
+    width: 10rem;
+    background-color: tomato;
+    margin: 1rem;
+}
